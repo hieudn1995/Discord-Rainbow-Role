@@ -1,10 +1,9 @@
 {
 	"token": "NjA4Mjk0NDA5MDg3NDgzOTE0.XZx4iQ.IMb-7V_NBMxuxsXgojkyLgzm4gw",
 	"servers": [
-		"ID 1ST SERVER",
-		"ID 2ND SERVER"
+		"608260073776742403"
 	],
-	"roleName": "THE ROLE NAME YOU WANT TO CHANGE ITS COLOR FROM HERE",
+	"roleName": "Bot Runner",
 	"colors": 12,
 	"speed": 60000,
 	"logging": true
